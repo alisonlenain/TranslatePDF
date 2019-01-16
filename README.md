@@ -1,3 +1,5 @@
+Important: DeepL has changed its API, this project no longer works.
+
 # TranslatePDF
 Extracts text from PDF while keeping some layout, and translates it using the DeepL API.
 
